@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Hello, this is the first line.
 Hi,i am sherlock
+=======
+Hello, this is the first line
+Hello, I am Leo.
+>>>>>>> 34b8ebc5bddd4a055611ffe530958b8874c911d1
+
+12345
